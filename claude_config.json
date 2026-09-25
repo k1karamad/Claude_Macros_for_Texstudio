@@ -1,0 +1,6 @@
+{
+    "CLAUDE_API_KEY": "INSERT_API_KEY",
+    "CLAUDE_BASE_URL": "https.......",
+    "CLAUDE_MODEL": "claude-sonnet-5",
+    "CLAUDE_API_FORMAT": "anthropic"
+}
